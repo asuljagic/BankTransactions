@@ -7,6 +7,6 @@
 - EF Core with SQL Server
 
 ## How it looks
-- All Transactions ![Screenshot](Home.PNG){:height="100px" width="100px"}
-- Add Transaction ![Screenshot](Create.PNG){:height="100px" width="100px"}
-- Edit Transaction ![Screenshot](Edit.PNG){:height="100px" width="100px"}
+- All Transactions ![Screenshot](Home.PNG){: height="100px" width="100px"}
+- Add Transaction ![Screenshot](Create.PNG){: height="100px" width="100px"}
+- Edit Transaction ![Screenshot](Edit.PNG){: height="100px" width="100px"}
