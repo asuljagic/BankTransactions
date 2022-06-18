@@ -1,6 +1,6 @@
 # BankTransactions
 .NET 6 MVC CRUD app with EF Core
 
-##Technologies used
-Bootstrap
-EF Core with SQL Server
+## Technologies used
+1)Frontend: Bootstrap
+2)EF Core with SQL Server
