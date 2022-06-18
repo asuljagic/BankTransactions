@@ -8,5 +8,5 @@
 
 ## How it looks
 - All Transactions <img src="Home.PNG" width="800" height="300">
-- Add Transaction ![Screenshot](Create.PNG){height=100px width=100px}
-- Edit Transaction ![Screenshot](Edit.PNG){height=100px width=100px}
+- Add Transaction <img src="Create.PNG" width="800" height="300">
+- Edit Transaction <img src="Edit.PNG" width="800" height="300">
