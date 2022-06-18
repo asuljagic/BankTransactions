@@ -7,6 +7,6 @@
 - EF Core with SQL Server
 
 ## How it looks
-![Screenshot](Home.png)
-![Screenshot](Create.png)
-![Screenshot](Edit.png)
+![Screenshot](Home.PNG)
+![Screenshot](Create.PNG)
+![Screenshot](Edit.PNG)
