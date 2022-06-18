@@ -5,3 +5,8 @@
 ## Technologies used
 - Frontend: Bootstrap
 - EF Core with SQL Server
+
+## How it looks
+![Screenshot](Home.png)
+![Screenshot](Create.png)
+![Screenshot](Edit.png)
