@@ -7,6 +7,6 @@
 - EF Core with SQL Server
 
 ## How it looks
-- ![Screenshot](Home.PNG)
-- ![Screenshot](Create.PNG)
-- ![Screenshot](Edit.PNG)
+- All Transactions ![Screenshot](Home.PNG)
+- Add Transaction ![Screenshot](Create.PNG)
+- Edit Transaction ![Screenshot](Edit.PNG)
